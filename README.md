@@ -174,27 +174,34 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 <div align=center>
+  <a href="https://aronpereira.vercel.app/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=My%20Website&color=090d24&logo=appian&logoColor=FFFFFF&label=" alt="My Webite" /></a>  
   <a href="https://www.linkedin.com/in/aron-pereira/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="mailto:aronpereira1999@gmail.com?subject=Hi%20Aron%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
   <a href="https://twitter.com/AronPereira99"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=009deb&logo=twitter&logoColor=FFFFFF&label=" alt="Twitter" /></a>
-  <a href="https://www.chess.com/member/aron678"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chess.com&color=74aa4b&logo=kingstontechnology&logoColor=FFFFFF&label=" alt="Lichess" /></a>  
+  <a href="https://www.chess.com/member/aron678"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chess.com&color=74aa4b&logo=kingstontechnology&logoColor=FFFFFF&label=" alt="Chess.com" /></a>  
 </div>
 
 #### Organizations
 
 <table>
   <tr>
-    <th>Bonk-Wills</th>
-    <th>Nilles-Wills</th>
+    <th>Shopflo</th>
+    <th>SuperGaming</th>
+    <th>Axis Bank</th>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/Bonk-Wills">
+    <td align="center">
+      <a href="https://shopflo.com/">
         <img src="https://avatars.githubusercontent.com/u/122900893?s=200&v=4" alt="Bonk-Wills organization photo" align="center" width="50" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/Nilles-Wills">
+      <a href="https://www.supergaming.com/">
+        <img src="https://avatars.githubusercontent.com/u/143287424?s=200&v=4" alt="Nilles-Wills organization photo" align="center" width="50" />
+      </a>
+    </td>
+     <td>
+      <a href="https://www.supergaming.com/">
         <img src="https://avatars.githubusercontent.com/u/143287424?s=200&v=4" alt="Nilles-Wills organization photo" align="center" width="50" />
       </a>
     </td>
