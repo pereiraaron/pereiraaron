@@ -10,7 +10,7 @@
 
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of William Guerrand">
+      <img height="200" src="https://i.postimg.cc/mkwXLh7c/847.jpg" alt="Avatar photo of popular meme">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"
