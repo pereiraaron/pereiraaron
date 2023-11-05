@@ -7,6 +7,7 @@
 
 [comment]: <> (View Counter)
 <br>
+
 <div>
   <div align=center>
       <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of William Guerrand">
@@ -24,7 +25,7 @@
 <details>
 <summary>About me</summary>
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+[//]: # "You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div"
 
 <div align="left">
 
@@ -32,17 +33,17 @@
 /**
  * Represents me.
  * @constructor
- * @param {string} city - Paris, France.
- * @param {string} languagues - English, French.
- * @param {string} jobTitle - Full Stack Developer.
+ * @param {string} city - Bengaluru, India.
+ * @param {string} languagues - English, Marathi,Hindi.
+ * @param {string} jobTitle - Frontend Engineer.
  * @param {string} specialization - Building full-fledged web applications.
  * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - Climbing, reading, triathlons & playing music.
- * @param {string} education - BSc CompSci, Lancaster University.
+ * @param {string} hobbies - Trekking, badmintin, football & gardening.
+ * @param {string} education - BEngg CompSci, University of Mumbai.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
  * @param {string} weakness - Shyness.
- * @param {Date} birthday - 14th of December 2000.
+ * @param {Date} birthday - 20th of January 1999.
  * @throws {Punch} To any and all bugs.
  * @returns {Object} Austinae.
  */
@@ -60,65 +61,47 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" alt="python" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" alt="c++" title="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-      <img width="30px" alt="java" title="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-      <img width="30px" alt="js" title="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    </kbd>
-    <kbd>
-      <kbd>Back-end</kbd>
-      <br>
-      <br>
-      <img width="30px" alt="RoR" title="RoR" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-      <img width="30px" alt="nodejs" title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img width="30px" alt="expressjs" title="expressjs" src="https://cdn.simpleicons.org/express/white" />
-      <img width="30px" alt="flask" title="flask" src="https://cdn.simpleicons.org/flask/white" />
-    </kbd>
-     <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-      <img width="30px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img width="30px" alt="kotlin" title="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+      <img width="30px" alt="js" title="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img width="30px" alt="python" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img width="30px" alt="c#" title="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
       <br>
       <br>
       <img width="30px" alt="html5" title="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="30px" alt="css3" title="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-      <img width="30px" alt="bootstrap" title="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-      <img width="30px" alt="react" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img width="30px" alt="jquery" title="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+      <img width="30px" alt="css3" title="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+      <img width="30px" alt="react" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+      <img width="30px" alt="redux" title="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+      <img width="30px" alt="bootstrap" title="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+      <img width="30px" alt="tailwind" title="tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+     <img width="30px" alt="materialui" title="materialui" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
     </kbd>
+    <kbd>
+      <kbd>Back-end</kbd>
+      <br>
+      <br>
+      <img width="30px" alt="nodejs" title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img width="30px" alt="expressjs" title="expressjs" src="https://cdn.simpleicons.org/express/white" />
+      <img width="30px" alt="dotnet" title="dotnet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    </kbd>
+    <br>
+    <br>
     <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" alt="mysql" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-      <img width="30px" alt="postgresql" title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img width="30px" alt="mongodb" title="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
       <img width="30px" alt="redis" title="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-      <kbd>Data Science & AI</kbd>
-      <br>
-      <br>
-      <img width="30px" alt="matlab" title="matlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      <img width="30px" alt="tensorflow" title="tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-      <img width="30px" alt="numpy" title="numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-      <img width="30px" alt="pandas" title="pandas" src="https://cdn.simpleicons.org/pandas/white" />
     </kbd>
     <kbd>
       <kbd>VCS & Devops</kbd>
       <br>
-      <br>
-      <img width="30px" alt="aws" title="aws" src="https://cdn.simpleicons.org/amazonaws/white" />
-      <img width="30px" alt="heroku" title="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+      <br>      
       <img width="30px" alt="git" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-      <img width="30px" alt="docker" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+      <img width="30px" alt="aws" title="aws" src="https://cdn.simpleicons.org/amazonaws/white" />
+      <img width="30px" alt="firebase" title="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+      <img width="30px" alt="heroku" title="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
     </kbd>
     <kbd>
       <kbd>CLI</kbd>
@@ -130,22 +113,11 @@
       <kbd>Tools</kbd>
       <br>
       <br>
-      <img width="30px" alt="vim" title="vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
       <img width="30px" alt="vscode" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img width="30px" alt="sublime" title="sublime" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
+      <img width="30px" alt="vsstudio" title="vsstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
       <img width="30px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30px" alt="pycharm" title="pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <img width="30px" alt="rubymine" title="rubymine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" />
-      <img width="30px" alt="intellij" title="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-      <img width="30px" alt="android studio" title="android studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-      <img width="30px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   </kbd>
-     <kbd>
-      <kbd>Game Development</kbd>
-      <br>
-      <br>
-      <img width="30px" alt="unity" title="unity" src="https://cdn.simpleicons.org/unity/white" />
-    </kbd>
   </p>
 </div>
 </details>
@@ -174,11 +146,11 @@
   <tr>
   <td width="50%" valign="top">
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
+[//]: # "Fighting against markdown and blocks isn't easy, indentation is catastrophic"
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:guerrandw@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:aronpereira1999@gmail.com">contact me by email</a>, I won't bite, I promise.
 
   </td>
   <td width="50%" valign="top">
