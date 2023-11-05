@@ -32,18 +32,18 @@
  * Represents me.
  * @constructor
  * @param {string} city - Bengaluru, India.
- * @param {string} languagues - English, Marathi,Hindi.
+ * @param {string} languagues - English, Marathi, Hindi.
  * @param {string} jobTitle - Frontend Engineer.
  * @param {string} specialization - Building full-fledged web applications.
  * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - Trekking, badmintin, football & gardening.
+ * @param {string} hobbies - Trekking, badminton, football & gardening.
  * @param {string} education - BEngg CompSci, University of Mumbai.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
  * @param {string} weakness - Shyness.
  * @param {Date} birthday - 20th of January 1999.
  * @throws {Punch} To any and all bugs.
- * @returns {Object} Austinae.
+ * @returns {Object} Aron.
  */
 ```
 
