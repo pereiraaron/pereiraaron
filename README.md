@@ -4,8 +4,6 @@
 
 <details>
 <summary>Open profile</summary>
-
-[comment]: <> (View Counter)
 <br>
 
 <div>
