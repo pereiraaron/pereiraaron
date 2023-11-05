@@ -12,7 +12,12 @@
       <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of William Guerrand">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"
+          ><img
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=500&color=59DDCA&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+Aron;Welcome+to+my+profile!;I+am+a+Frontend+Engineer+by+profession;Inquisitive+by+nature.;AI+enthusiast!;Chess+Lover+and+an+athlete;Manchester+United+is+%E2%9D%A4%EF%B8%8F!;"
+            alt="Typing SVG"
+        />
+      </a>
   </div>
 </div>
 
