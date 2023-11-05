@@ -192,17 +192,17 @@ If you have any questions about web development, writing mistake-free documentat
   <tr>
     <td align="center">
       <a href="https://shopflo.com/">
-        <img src="https://avatars.githubusercontent.com/u/122900893?s=200&v=4" alt="Bonk-Wills organization photo" align="center" width="50" />
+        <img src="https://i.postimg.cc/nrQM4Qc5/shopflo.png" alt="Shopflo Logo" align="center" width="50" />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://www.supergaming.com/">
-        <img src="https://avatars.githubusercontent.com/u/143287424?s=200&v=4" alt="Nilles-Wills organization photo" align="center" width="50" />
+        <img src="https://avatars.githubusercontent.com/u/143287424?s=200&v=4" alt="SuperGaming Logo" align="center" width="50" />
       </a>
     </td>
-     <td>
+     <td align="center">
       <a href="https://www.supergaming.com/">
-        <img src="https://avatars.githubusercontent.com/u/143287424?s=200&v=4" alt="Nilles-Wills organization photo" align="center" width="50" />
+        <img src="https://avatars.githubusercontent.com/u/143287424?s=200&v=4" alt="Axis Bank Logo" align="center" width="50" />
       </a>
     </td>
   </tr>
