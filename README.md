@@ -171,9 +171,9 @@ If you have any questions about web development, writing mistake-free documentat
 
 </div>
 
-<div align=center>
-  <a href="https://aronpereira.vercel.app/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=My%20Website&color=090d24&logo=appian&logoColor=FFFFFF&label=" alt="My Webite" /></a>  
+<div align=center>  
   <a href="https://www.linkedin.com/in/aron-pereira/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="https://aronpereira.vercel.app/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=My%20Website&color=090d24&logo=appian&logoColor=FFFFFF&label=" alt="My Webite" /></a>
   <a href="mailto:aronpereira1999@gmail.com?subject=Hi%20Aron%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
   <a href="https://twitter.com/AronPereira99"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=009deb&logo=twitter&logoColor=FFFFFF&label=" alt="Twitter" /></a>
   <a href="https://www.chess.com/member/aron678"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chess.com&color=74aa4b&logo=kingstontechnology&logoColor=FFFFFF&label=" alt="Chess.com" /></a>  
