@@ -191,7 +191,7 @@ If you have any questions about web development, writing mistake-free documentat
   </tr>
   <tr>
     <td align="center">
-      <a href="https://shopflo.com/">
+      <a href="https://stockx.com/">
         <img src="https://i.postimg.cc/mkhHxHyL/stockx.png" alt="StockX Logo" align="center" width="50" />
       </a>
     </td>
