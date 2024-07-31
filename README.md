@@ -184,11 +184,17 @@ If you have any questions about web development, writing mistake-free documentat
 
 <table>
   <tr>
+    <th>StockX</th>
     <th>Shopflo</th>
     <th>SuperGaming</th>
     <th>Axis Bank</th>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://shopflo.com/">
+        <img src="https://i.postimg.cc/mkhHxHyL/stockx.png" alt="StockX Logo" align="center" width="50" />
+      </a>
+    </td>
     <td align="center">
       <a href="https://shopflo.com/">
         <img src="https://i.postimg.cc/nrQM4Qc5/shopflo.png" alt="Shopflo Logo" align="center" width="50" />
