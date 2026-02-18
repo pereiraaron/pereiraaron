@@ -196,7 +196,7 @@ If you have any questions about web development, writing mistake-free documentat
       </a>
     </td>
     <td align="center">
-      <a href="https://shopflo.com/"target="_blank">
+      <a href="https://shopflo.com/" target="_blank">
         <img src="https://i.postimg.cc/nrQM4Qc5/shopflo.png" alt="Shopflo Logo" align="center" width="50" />
       </a>
     </td>
@@ -206,7 +206,7 @@ If you have any questions about web development, writing mistake-free documentat
       </a>
     </td>
      <td align="center">
-      <a href="https://www.supergaming.com/" target="_blank">
+      <a href="https://www.axis.bank.in/" target="_blank">
         <img src="https://i.postimg.cc/SQwHDzxr/axis-bank.png" alt="Axis Bank Logo" align="center" width="50" />
       </a>
     </td>
